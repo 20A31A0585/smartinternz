@@ -1,7 +1,7 @@
-# smartinternz
+# SmartinternzTableau
 Topic: Plugging into the Future: An Exploration of Electricity Consumption Patterns
 
-By Umashankar Bandi, Roll No: 20a31a0598, CSE, Pragati Engineering College.
+By Tanuja Sandhya Penta, Roll No: 20A31A0585, CSE, Pragati Engineering College.
 
 Document: Contains project report Project files: Contains dataset used and workbook Video Demo: Contains video demo of project Web Files: Contains website files of project
 
